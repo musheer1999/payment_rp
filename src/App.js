@@ -72,7 +72,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Pa
+         Pay
         </a>
       </header>
     </div>
